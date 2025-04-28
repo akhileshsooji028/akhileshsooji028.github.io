@@ -24,7 +24,8 @@ export default function Home() {
           <h3 className="vertical-timeline-element-title"><span style={{fontWeight: "bold", "textDecorationLine": "underline"}}>WizardTales GmbH</span></h3>
           <h4 className="vertical-timeline-element-subtitle">Software Developer</h4>
           <h5 className="vertical-timeline-element-subtitle"><span style={{fontWeight: "bold"}}>URL:</span> <a style={{"textDecorationLine": "none"}} href="https://software.opencode.de/" target="_blank" rel="noopener noreferrer">https://software.opencode.de/</a></h5>
-          <h5 className="vertical-timeline-element-subtitle"><span style={{fontWeight: "bold"}}>Tech Stack Used:</span> [Hapi JS, Postgresql, Vue 3, Webpack, Docker, Gitlab API]</h5>
+          <h5 className="vertical-timeline-element-subtitle"><span style={{fontWeight: "bold"}}>URL:</span> <a style={{"textDecorationLine": "none"}} href="https://wx1.de/de" target="_blank" rel="noopener noreferrer">https://wx1.de/de</a></h5>
+          <h5 className="vertical-timeline-element-subtitle"><span style={{fontWeight: "bold"}}>Tech Stack Used:</span> [Hapi JS, Postgresql, Nuxt 3, Webpack, Docker, Gitlab API]</h5>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"

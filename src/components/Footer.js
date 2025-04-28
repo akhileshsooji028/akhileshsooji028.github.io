@@ -60,7 +60,7 @@ export default function Header() {
           target="_blank"
           rel="noopener noreferrer"
           data-title="Résumé"
-          href="/assets/Akhilesh2024.pdf"
+          href="/assets/Akhilesh2025.pdf"
         >
           <ResumeIcon
             className="social-link-icon"
