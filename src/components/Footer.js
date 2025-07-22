@@ -5,6 +5,7 @@ import { ReactComponent as GitHubIcon } from "../assets/icons/github.svg";
 import { ReactComponent as MailIcon } from "../assets/icons/mail.svg";
 import { ReactComponent as WhatsAppIcon } from "../assets/icons/whatsapp.svg";
 import { ReactComponent as ResumeIcon } from "../assets/icons/resume.svg";
+import { ReactComponent as WebsiteIcon }  from "../assets/icons/website.svg";
 
 export default function Header() {
   return (
@@ -27,6 +28,15 @@ export default function Header() {
           href="https://github.com/akhileshsooji028"
         >
           <GitHubIcon className="social-link-icon" aria-label="GitHub" />
+        </a>
+        <a
+          className="social-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          data-title="Website"
+          href="https://www.devsview.com/"
+        >
+          <WebsiteIcon className="social-link-icon" aria-label="Website" />
         </a>
         <a
           className="social-link"
